@@ -1,3 +1,7 @@
+#🤖 AI Personal Assistant
+"Meet your AI-powered productivity companion — designed to simplify your daily life.
+From scheduling tasks and setting reminders to delivering smart news summaries, it keeps you ahead of the day."
+
 📌 Project Overview
 A smart AI-powered web app that helps you schedule tasks, set reminders, and receive daily news summaries — all in one clean, responsive interface.
 
